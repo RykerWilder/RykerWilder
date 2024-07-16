@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Fabio and I'm a Jr. Full Stack Web Developer, from 🇮🇹!</p>
+<p align="center">My name is Fabio and I'm a Jr. Full Stack Web Developer, from 🇮🇹!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -30,11 +30,11 @@
 
 ###
 
-<h2 align="left">How to reach me</h2>
+<h2 align="center">How to reach me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/fabio-masciarelli-1605b7304/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
