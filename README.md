@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">How to reach me</p>
+<h2 align="left">How to reach me</h2>
 
 ###
 
