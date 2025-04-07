@@ -1,7 +1,7 @@
 ### GitHub Stats
 
 ![RykerWilder stats](https://github-readme-stats.vercel.app/api?username=RykerWilder&show_icons=true&theme=transparent)
-![RykerWilder Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&theme=radical&show_icons=true&hide_border=true)
+![RykerWilder Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&theme=radical&show_icons=true&theme=transparent_border=true)
 
 ---
 
