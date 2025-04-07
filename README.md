@@ -1,7 +1,7 @@
 ### GitHub Stats
 
-![RykerWilder stats](https://github-readme-stats.vercel.app/api?username=RykerWilder&show_icons=true&theme=tokyonight&include_all_commits=true&card_height=300)
-![RykerWilder Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&layout=donut&theme=tokyonight&card_height=300)
+![RykerWilder stats](https://github-readme-stats.vercel.app/api?username=RykerWilder&show_icons=true&theme=tokyonight&include_all_commits=true&size_weight=0.3&count_weight=0.7)
+![RykerWilder Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&layout=donut&theme=tokyonight&size_weight=0.3&count_weight=0.7)
 
 ---
 
