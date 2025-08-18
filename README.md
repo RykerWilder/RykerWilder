@@ -12,3 +12,4 @@ Hi, i'm
 [![GitHub Streak](https://streak-stats.demolab.com?user=RykerWilder&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
