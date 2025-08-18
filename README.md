@@ -11,6 +11,6 @@ Hi, i'm
 ```
 [![GitHub Streak](https://streak-stats.demolab.com?user=RykerWilder&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
