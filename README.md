@@ -25,8 +25,6 @@ rw.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RykerWilder&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-
-<img src="https://streak-stats.demolab.com?user=RykerWilder&theme=github-dark-blue&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RykerWilder&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
 </div>
